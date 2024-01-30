@@ -1,4 +1,3 @@
-# tasks/views.py
 from django.shortcuts import render, redirect
 
 tasks = []  # In-memory list to store tasks
